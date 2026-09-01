@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 430" role="img" aria-labelledby="title desc">
+  <title id="title">吴若辰与许臻臻</title>
+  <desc id="desc">新人姓名图形</desc>
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff25b"/>
+      <stop offset=".55" stop-color="#ffd324"/>
+      <stop offset="1" stop-color="#ffad18"/>
+    </linearGradient>
+  </defs>
+  <g font-family="Arial Black,Microsoft YaHei,sans-serif" font-weight="900" text-anchor="middle" stroke-linejoin="round">
+    <text x="706" y="216" font-size="150" fill="#006cb1" stroke="#006cb1" stroke-width="36">吴若辰 &amp; 许臻臻</text>
+    <text x="700" y="200" font-size="150" fill="url(#gold)" stroke="#fff0a8" stroke-width="5">吴若辰 &amp; 许臻臻</text>
+    <text x="706" y="376" font-size="80" letter-spacing="14" fill="#043b70" stroke="#ffe53b" stroke-width="14">ROXIE • ZZ</text>
+    <text x="700" y="366" font-size="80" letter-spacing="14" fill="#086ca6" stroke="#fff4a8" stroke-width="3">ROXIE • ZZ</text>
+  </g>
+</svg>
