@@ -1,5 +1,5 @@
 const weddingDate = new Date('2026-10-01T19:28:00+08:00')
-document.querySelector('#days-count').textContent = String(Math.max(0, Math.ceil((weddingDate.getTime() - Date.now()) / 86400000)))
+document.querySelector('#days-count').textContent = String(Math.max(0, Math.floor((weddingDate.getTime() - Date.now()) / 86400000)))
 
 const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches
 const revealElements = document.querySelectorAll('.reveal')
